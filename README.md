@@ -11,7 +11,7 @@ Install dependencies with
 Run dev mode with
 ```npm run dev```
 
-Now open the browser and navigate to `http://localhost:2048` and you get your server rendered React app. You can inspect the page source and see that the html coming from your local server has all the nodes defined in the React app.
+Now open the browser and navigate to `http://localhost:3000` and you get your server rendered React app. You can inspect the page source and see that the html coming from your local server has all the nodes defined in the React app.
 
 ### A few notes
 * I tried to limit the complexity of the entire app to focus on the server side rendering part. Don't take the same shortcuts in your production app!
